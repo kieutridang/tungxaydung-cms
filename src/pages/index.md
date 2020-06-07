@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Tùng Xây Dựng
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Tùng Xây Dựng
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
