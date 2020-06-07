@@ -3,7 +3,7 @@ templateKey: index-page
 title: Tùng Xây Dựng
 image: /img/home-jumbotron.jpg
 heading: Tùng Xây Dựng abc
-subheading: Support sustainable farming while enjoying a cup
+subheading: Support sustainable farming while enjoying a cup bla bla
 mainpitch:
   title: Why Kaldi
   description: >
