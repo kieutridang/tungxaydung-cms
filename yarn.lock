@@ -4937,6 +4937,11 @@ css-declaration-sorter@^4.0.1:
     postcss "^7.0.1"
     timsort "^0.3.0"
 
+css-element-queries@^1.0.2:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/css-element-queries/-/css-element-queries-1.2.3.tgz#e14940b1fcd4bf0da60ea4145d05742d7172e516"
+  integrity sha512-QK9uovYmKTsV2GXWQiMOByVNrLn2qz6m3P7vWpOR4IdD6I3iXoDw5qtgJEN3Xq7gIbdHVKvzHjdAtcl+4Arc4Q==
+
 css-loader@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-1.0.1.tgz#6885bb5233b35ec47b006057da01cc640b6b79fe"
@@ -13320,6 +13325,14 @@ react-codemirror2@^6.0.0:
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/react-codemirror2/-/react-codemirror2-6.0.1.tgz#7daba40795eb2a52637926b6fe0b73a6e9090723"
   integrity sha512-rutEKVgvFhWcy/GeVA1hFbqrO89qLqgqdhUr7YhYgIzdyICdlRQv+ztuNvOFQMXrO0fLt0VkaYOdMdYdQgsSUA==
+
+react-compare-image@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/react-compare-image/-/react-compare-image-2.0.4.tgz#d1c6d64cc61852404df538792fb1ee138de38919"
+  integrity sha512-kuYtu+qOF07XhY0/cJCqXgM26yqXRKtqZS9YLNi18Cd9tE27sqDe/LZCxoMTDiPA3gfq8uM82Q56nzkZMWBJhg==
+  dependencies:
+    css-element-queries "^1.0.2"
+    prop-types "^15.7.2"
 
 react-datetime@^2.16.3:
   version "2.16.3"
