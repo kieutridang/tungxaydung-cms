@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import CompareImage from './CompareImage'
+import get from 'lodash/get'
 
 const FeatureGrid = ({ gridItems }) => {
   return (
@@ -18,7 +19,7 @@ const FeatureGrid = ({ gridItems }) => {
                   }}
                 >
                   {/* <PreviewCompatibleImage imageInfo={item} /> */}
-                  <CompareImage leftImage={item.leftImage.childImageSharp.fluid.src} rightImage={item.rightImage.childImageSharp.fluid.src} />
+                  <CompareImage leftImage={get(item, 'leftImage.childImageSharp.fluid.src', '')} rightImage={get(item,'rightImage.childImageSharp.fluid.src', '')} />
                 </div>
               </div>
               <p>{item.text}</p>
