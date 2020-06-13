@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Tùng Xây Dựng
-image: /img/home-jumbotron.jpg
-heading: Tùng Xây Dựng abc
-subheading: Support sustainable farming while enjoying a cup bla bla
+title: TÙNG XÂY DỰNG
+image: /img/tung-xay-dung-home-banner.jpg
+heading: Hình ảnh sản phẩm
+subheading: Chuyên thi công, sửa chữa, trang trí các công trình hộ gia đình nhỏ và vừa
 mainpitch:
-  title: Why Kaldi
+  title: Tại sao lại chọn Tùng Xây Dựng
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Với hơn 8 năm kinh nghiệm trong việc thi công, sửa chữa và trang trí các công trình hộ gia đình.
+    Chúng tôi nhận ra nhu cầu không nhỏ của các gia đình rằng, ai cũng có nhu cầu sống và làm việc trong không gian luôn mới và ...
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
