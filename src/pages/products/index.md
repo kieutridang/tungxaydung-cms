@@ -1,14 +1,10 @@
 ---
-templateKey: 'product-page'
+heading: Đến với Tùng Xây Dựng
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: Sản Phẩm Của Chúng Tôi
+image: /img/product-banner.jpg
+description: Chúng tôi sẽ thiết kế và xây dựng nên những căn nhà lộng lẫy.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -38,12 +34,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Những gì chúng tôi phục vụ
+  description: Với những sản phẩm của chúng tôi, quý khách sẽ được sống trong một
+    căn nhà đẹp đẽ.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -62,20 +55,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -83,19 +73,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
