@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "gatsby";
-import MessengerCustomerChat from 'react-messenger-customer-chat';
 
 import logo from "../img/TXD-logo.svg";
 import facebook from "../img/social/facebook.svg";
@@ -73,7 +72,11 @@ const Footer = class extends React.Component {
                       </Link>
                     </li> */}
                     <li>
-                      <a className="navbar-item" target="_blank" href="https://goo.gl/maps/aQ2nTrNXwBa4inga6">
+                      <a
+                        className="navbar-item"
+                        target="_blank"
+                        href="https://goo.gl/maps/aQ2nTrNXwBa4inga6"
+                      >
                         Địa chỉ: 039 Lô N, Chung cư Ngô Gia Tự, P2, Q10
                       </a>
                     </li>
@@ -83,7 +86,11 @@ const Footer = class extends React.Component {
                       </a>
                     </li>
                     <li>
-                      <a className="navbar-item" target="_blank" href="mailto:tungxaydung.1210@gmail.com">
+                      <a
+                        className="navbar-item"
+                        target="_blank"
+                        href="mailto:tungxaydung.1210@gmail.com"
+                      >
                         Email: tungxaydung.1210@gmail.com
                       </a>
                     </li>
@@ -127,11 +134,6 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-        <MessengerCustomerChat
-        pageId={110184210682682}
-        appId={937368100112461}
-        htmlRef="https://www.facebook.com/T%C3%B9ng-x%C3%A2y-d%E1%BB%B1ng-110184210682682"
-      />
       </footer>
     );
   }
