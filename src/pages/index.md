@@ -2,60 +2,42 @@
 templateKey: index-page
 title: TÙNG XÂY DỰNG
 image: /img/tung-xay-dung-home-banner.jpg
-heading: Hình ảnh sản phẩm
-subheading: Chuyên thi công, sửa chữa, trang trí các công trình hộ gia đình nhỏ và vừa
+heading: CÁC HẠNG MỤC CHUYÊN THI CÔNG
+subheading: Chuyên thi công, sửa chữa, trang trí các công trình, hộ gia đình vừa và nhỏ
 mainpitch:
-  title: Tại sao lại chọn Tùng Xây Dựng
-  description: >
-    Với hơn 8 năm kinh nghiệm trong việc thi công, sửa chữa và trang trí các công trình hộ gia đình.
-    Chúng tôi nhận ra nhu cầu không nhỏ của các gia đình rằng, ai cũng có nhu cầu sống và làm việc trong không gian luôn mới và ...
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Tùng Xây Dựng
+  description: Đơn vị chuyên thi công, sửa chữa công trình uy tín. Cung cấp các
+    dịch vụ sửa chữa nhà từ hạng mục nhỏ đến lớn. Trọn gói thi công, sửa chữa
+    nhà ở với giá thành hợp lý, đảm bảo chất lượng nguyên vật liệu và trình độ
+    tay nghề.
+description: "Tùng Xây Dựng chuyên thi công các hạng mục:"
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/ac47e50d6efe92a0cbef.jpg
       leftImage: /img/ts-1-trai.png
       rightImage: /img/ts-1-phai.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability
-    - image: /img/coffee-gear.png
+      text: |
+        Sửa chữa nhà ở
+    - image: /img/7477252da3de5f8006cf.jpg
       leftImage: /img/ts-2-trai.png
       rightImage: /img/ts-2-phai.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+      text: Làm cửa sắt và nhôm, phòng nhôm
+    - image: /img/a1abf9ec451fb941e00e.jpg
       leftImage: /img/ts-3-trai.png
       rightImage: /img/ts-3-phai.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+      text: |
+        Sơn nước/ Sơn dầu
+    - image: /img/7be917a1ab52570c0e43.jpg
       leftImage: /img/ts-4-trai.png
       rightImage: /img/ts-4-phai.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+      text: |
+        Chống thấm
+    - text: Lót sàn gỗ, nhựa giả gỗ, gạch,...
+      image: /img/64137411cde231bc68f3.jpg
+    - text: Thi công đường điện/nước
+      image: /img/dad55f35d0c62c9875d7.jpg
+  heading: Đảm bảo chất lượng, giá thành hợp lý
+  description: "\n"
 main:
   heading: Great coffee with no compromises
   description: >
