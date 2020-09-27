@@ -1,91 +1,65 @@
 ---
-heading: Đến với Tùng Xây Dựng
+heading: " Hạng mục xây dựng/ sửa chữa/ thi công"
 path: /products
 templateKey: product-page
-title: Sản Phẩm Của Chúng Tôi
-image: /img/product-banner.jpg
-description: Chúng tôi sẽ thiết kế và xây dựng nên những căn nhà lộng lẫy.
+title: Tùng Xây Dựng có những dịch vụ nào?
+image: /img/20b895fe190de553bc1c.jpg
+description: Tùng Xây Dựng hiện cung cấp các dịch vụ dưới đây
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: Những gì chúng tôi phục vụ
+    - text: >-
+        DỊCH VỤ SỬA CHỮA NHÀ TRỌN GÓI: 
+
+        Cung cấp cho khách hàng những dịch vụ giá rẻ với mục đích cải tạo, sửa chữa nhà ở, công trình. Đảm bảo giúp khách hàng tiết kiệm thêm công sức, thời gian và chi phí. Dịch vụ sửa chữa nhà trọn gói bao gồm từ những hạng mục nhỏ đến lớn: Phá tường, chia phòng, thi công điện nước, chống thấm, sơn nước,...
+      image: /img/product-banner.jpg
+    - text: >
+        DỊCH VỤ SƠN SỬA NHÀ:
+
+        Thực hiện sơn nước, sơn dầu cho nhà ở, quán xá, các công trình vừa và nhỏ
+      image: /img/a1abf9ec451fb941e00e.jpg
+    - text: >
+        CHỐNG THẤM HIỆU QUẢ:
+
+        Nhận thi công chống thấm sàn, trần hiệu quả, đảm bảo chất lượng công trình. Sửa chữa trần, sàn bị thấm nước, khắc phục hiệu quả các khu vực bị hư hỏng
+      image: /img/7be917a1ab52570c0e43.jpg
+    - text: >
+        THI CÔNG, LẮP ĐẶT, SỬA CHỮA ĐƯỜNG ĐIỆN/ NƯỚC:
+
+        Thi công, lắp đặt đường điện/nước trong công trình theo yêu cầu. Sửa chữa các khu vực hư hại: Bục, thủng ống nước; chập, rò rỉ điện, đứt đường dây
+      image: /img/dad55f35d0c62c9875d7.jpg
+    - text: >
+        THI CÔNG CÁC HẠNG MỤC:
+
+        Nhận trang trí nhà cả, quán xá, công trình nhỏ và vừa theo yêu cầu. Cải tạo các khu vực nhà ở khác nhau. Thi công lắp đặt sàn nhà (Gỗ, gạch, nhựa giả gỗ,...), trần nhà (Thạch cao,...), khu vực toilet,... Ốp đá hoa cương cho bếp, toilet; thực hiện thi công gạch giả cổ, tường giả xi măng,...
+      image: /img/64137411cde231bc68f3.jpg
+    - text: >
+        THIẾT KẾ TOILET KHÔNG GIAN HẸP:
+
+        Lên thiết kế và thi công, lắp đặt các công trình toilet trong không gian hẹp; lắp đặt bồn cầu âm tường; thi công ốp đá hoa cương, gạch tường, chống thấm sàn nhà,...
+      image: /img/9a2660c0ee33126d4b22.jpg
+  heading: Tùng Xây Dựng
   description: Với những sản phẩm của chúng tôi, quý khách sẽ được sống trong một
     căn nhà đẹp đẽ.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Tùng Xây Dựng cung cấp các dịch vụ xây dựng, sửa chữa, thi công công trình
+  description: Rất nhiều các dịch vụ và giá thành hợp lý để khách hàng lựa chọn
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Sửa chữa nhà trọn gói
+    image: /img/tung-xay-dung-home-banner.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Xây dựng, thiết kế theo yêu cầu
+    image: /img/e094851306e0fabea3f1.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    alt: Thi công đơn lẻ/tổng thể các hạng mục tại công trình
+    image: /img/1ee2ecab5058ac06f549.jpg
+testimonials: []
+full_image: /img/ts-4-phai.png
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+  heading: Vì sao chọn Tùng Xây Dựng
+  description: Tùng Xây Dựng là đơn vị chuyên thi công, sửa chữa, trang trí,... có
+    hơn 8 năm kinh nghiệm. Thấu hiểu khách hàng từ những nhu cầu nhỏ nhất, Tùng
+    Xây Dựng luôn cung cấp các dịch vụ phù hợp yêu cầu, cam kết chất lượng vật
+    tư đảm bảo theo đúng thỏa thuận, giá thành hợp lý, tương xứng với công trình
+    và dịch vụ.
+  plans: []
 ---
