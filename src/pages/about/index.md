@@ -1,31 +1,13 @@
 ---
 templateKey: about-page
 path: /about
-title: Chuyên môn của chúng tôi
+title: " Vì sao chọn Tùng Xây Dựng"
 ---
-### Làm cửa sắt và nhôm
+Tùng Xây Dựng là đơn vị chuyên thi công, sửa chữa, trang trí,... có hơn 8 năm kinh nghiệm. Thấu hiểu khách hàng từ những nhu cầu nhỏ nhất, Tùng Xây Dựng luôn cung cấp các dịch vụ phù hợp yêu cầu, cam kết chất lượng vật tư đảm bảo theo đúng thỏa thuận, giá thành hợp lý, tương xứng với công trình và dịch vụ.
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+#### **Lĩnh vực hoạt động:**
 
-### Làm cầu thang
-
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Thạch cao
-
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Sơn nước, sơn dầu
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Chống thấm
-
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
-
-### Lót sàn gỗ
-
-
-### Đi đường điện và nước
-
-### Điện lạnh
+* Xây dựng, lắp đặt và sửa chữa nhà ở, các công trình vừa và nhỏ
+* Thi công trang trí nội thất gia đình
+* Thi công hệ thống điện và nước cho các công trình
+* Sửa chữa các hạng mục riêng rẻ: Lót sàn, Chống thấm, Thạch cao, Sơn nước, Cửa nhôm/sắt,...
