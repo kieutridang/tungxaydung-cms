@@ -52,7 +52,6 @@ main:
   image3:
     alt: Thi công đơn lẻ/tổng thể các hạng mục tại công trình
     image: /img/1ee2ecab5058ac06f549.jpg
-testimonials: []
 full_image: /img/ts-4-phai.png
 pricing:
   heading: Vì sao chọn Tùng Xây Dựng
