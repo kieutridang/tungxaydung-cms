@@ -18,11 +18,11 @@ const FeatureGrid = ({ gridItems }) => {
                     display: "inline-block",
                   }}
                 >
-                  {/* <PreviewCompatibleImage imageInfo={item} /> */}
-                  <CompareImage leftImage={get(item, 'leftImage.childImageSharp.fluid.src', '')} rightImage={get(item,'rightImage.childImageSharp.fluid.src', '')} />
+                  <PreviewCompatibleImage imageInfo={item} />
+                  {/* <CompareImage leftImage={get(item, 'leftImage.childImageSharp.fluid.src', '')} rightImage={get(item,'rightImage.childImageSharp.fluid.src', '')} /> */}
                 </div>
               </div>
-              <p>{item.text}</p>
+              <p className="has-text-centered">{item.text}</p>
             </section>
           </div>
         );
