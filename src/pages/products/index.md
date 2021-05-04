@@ -54,9 +54,9 @@ main:
     image: /img/1ee2ecab5058ac06f549.jpg
 full_image: /img/ts-4-phai.png
 pricing:
-  heading: Vì sao chọn Tùng Xây Dựng
+  heading: Vì sao chọn Tùng Xây Dựng ?
   description: "Tùng Xây Dựng là đơn vị chuyên thi công, sửa chữa, trang trí,...
-    có hơn 8 năm kinh nghiệ. Thấu hiểu khách hàng từ những nhu cầu nhỏ nhất,
+    có hơn 8 năm kinh nghiệm. Thấu hiểu khách hàng từ những nhu cầu nhỏ nhất,
     Tùng Xây Dựng luôn cung cấp các dịch vụ phù hợp yêu cầu, cam kết chất lượng
     vật tư đảm bảo theo đúng thỏa thuận, giá thành hợp lý, tương xứng với công
     trình và dịch vụ.. Nắm bắt được nhu cầu phát triển ngày càng cao của ngành
