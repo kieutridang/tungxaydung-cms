@@ -3,7 +3,8 @@ templateKey: index-page
 title: TÙNG XÂY DỰNG
 image: /img/tung-xay-dung-home-banner.jpg
 heading: CÁC HẠNG MỤC CHUYÊN THI CÔNG
-subheading: Chuyên thi công, sửa chữa, trang trí các công trình, hộ gia đình vừa và nhỏ
+subheading: Chuyên thi công, sửa chữa, xây nhà mới ,  trang trí các công trình,
+  hộ gia đình vừa và nhỏ
 mainpitch:
   title: Tùng Xây Dựng
   description: Đơn vị chuyên thi công, sửa chữa công trình uy tín. Cung cấp các
