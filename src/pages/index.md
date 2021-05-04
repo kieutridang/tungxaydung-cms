@@ -8,9 +8,9 @@ subheading: Chuyên thi công, sửa chữa, xây nhà mới ,  trang trí các 
 mainpitch:
   title: Tùng Xây Dựng
   description: Đơn vị chuyên thi công, sửa chữa công trình uy tín. Cung cấp các
-    dịch vụ sửa chữa nhà từ hạng mục nhỏ đến lớn. Trọn gói thi công, sửa chữa
-    nhà ở với giá thành hợp lý, đảm bảo chất lượng nguyên vật liệu và trình độ
-    tay nghề.
+    dịch vụ sửa chữa nhà , xây nhà mới từ hạng mục nhỏ đến lớn. Trọn gói thi
+    công, sửa chữa nhà ở với giá thành hợp lý, đảm bảo chất lượng, nguyên vật
+    liệu và trình độ tay nghề.
 description: "Tùng Xây Dựng chuyên thi công các hạng mục:"
 intro:
   blurbs:
