@@ -7,17 +7,10 @@ subheading: Chuyên thi công, sửa chữa, xây nhà mới ,  trang trí các 
   hộ gia đình vừa và nhỏ
 mainpitch:
   title: Tùng Xây Dựng
-  description: >-
-    - Nắm bắt được nhu cầu phát triển ngày càng cao của ngành xây dựng đặc biệt
-    là yêu cầu về chất lượng và tiến độ của các công trình xây dựng. Tùng Xây
-    Dựng chính thức đi vào hoạt động với đội ngũ nhân viên ,thợ và công nhân có
-    trình độ tay nghề cao và giàu kinh nghiệm trong lĩnh vực thiết kế ,quản lý
-    và thi công nhà xưởng , nhà thép, các công trình xây dựng kinh doanh , cải
-    tạo nâng cấp công trình , tư vấn thiết kế , giám sát ,...
-     - Các công trình xây dựng của Tùng Xây Dựng được khách hàng đánh giá cao cả về chất lượng cũng như tiến độ thực hiện . Với quyết tâm nâng cao năng suất lao động , không ngừng đổi mới để tồn tại và phát triển bền vững.Hiện nay Tùng Xây Dựng đang áp dụng quy mô hình cơ cấu gọn nhẹ nhưng hoạt động linh hoạt và hiệu quả , nhằm đáp ứng được tất cả các yêu cầu về chất lượng khắt khe nhất của khách hàng. Không ngừng cải tiến máy móc 
-    thiết bị , các phần mềm hỗ trợ thiết kế ,thi công để đưa ra những sản phẩm tư vấn thiết kế ,xây dựng và trang trí nội thất đạt chất lượng cao nhất , chúng tôi luôn nỗ lực hoàn thiện chất lượng sản phẩm thông qua việc nâng cao năng suất lao động và cải tiến công nghệ , tiết kiệm nhân công và phát huy tối đa nguồn nhân lực . 
+  description: >+2
+     Đơn vị chuyên thi công, sửa chữa công trình uy tín. Cung cấp các dịch vụ sửa chữa nhà , xây nhà mới từ hạng mục nhỏ đến lớn. Trọn gói thi công, sửa chữa nhà ở với giá thành hợp lý, đảm bảo chất lượng, nguyên vật liệu và trình độ tay nghề.
 
-    Lấy khách hàng làm trọng tâm : Tùng Xây Dựng cam kết phấn đấu làm thỏa mãn tối đa yêu cầu của khách hàng. Tùng Xây Dựng lấy tín nhiệm của khách hàng làm mục đích để hoạt động. Chúng tôi cam kết giao sản phẩm đúng tiến độ , đạt chất lượng và thẩm mỹ cao nhất với chi phí hợp lý nhất .  
+
 description: "Tùng Xây Dựng chuyên thi công các hạng mục:"
 intro:
   blurbs:
